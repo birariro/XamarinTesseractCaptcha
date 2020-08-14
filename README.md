@@ -31,5 +31,5 @@ https://github.com/halkar/Tesseract.Xamarin
 
 ### Result
 -----------------------------------
-![tesseract](https://user-images.githubusercontent.com/52993842/90211154-e4646980-de2a-11ea-804f-b53d86eed102.jpg)
+
 
